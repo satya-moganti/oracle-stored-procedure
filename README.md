@@ -1,5 +1,5 @@
 # Stored Procedure with Spring boot and Java 17
-This example project demonstrates  fleet management using Spring Boot web application
+This example project demonstrates   oracle stored procedure with custom object types
 
 # Pre-requisites
 1. Java installed version 17
