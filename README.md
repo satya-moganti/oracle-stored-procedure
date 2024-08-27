@@ -8,7 +8,7 @@ This example project demonstrates   oracle stored procedure with custom object t
 4. Eclipse IDE  
 
 # Requirement :
-	Build the Application to store Book data using stored procure into Oracle Database
+	Build the Application to store Book data using stored procedure into Oracle Database
 
 # Build : Oracle Stored Procedure application 
 ```java
